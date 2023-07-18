@@ -123,7 +123,6 @@ const init = function () {
   recipeView.addHandlerAddBookmark(controlAddBookmark);
   searchView.addHandlerSearch(controlSearchResults);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('Developed by Nutsa Margvelashvili');
 };
 
 init();
